@@ -33,7 +33,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #bd5d38;
+  --bs-primary: #8b9eb7;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -63,6 +63,31 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+
+/* work pics */
+#zooPic{
+  width: 100px;
+}
+#Kable{
+  width: 100px;
+}
+#skylineChili{
+  width: 100px;
+}
+/* colors start */
+#sideNav{
+  background-color:#6f42c1 !important;
+}
+#lastname{
+  color:#6f42c1!important;
+}
+#email{
+  color:#6f42c1 !important
+}
+span.text-primary{
+  color:#6f42c1 !important
+}
+/* colors end */
 
 *,
 *::before,
